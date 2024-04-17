@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dde6bd8-ef11-46d4-9a4f-1cbfe107e3d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 11 - Classes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data classes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods and mutability.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenges/Challenge 1 - Movie lists.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenges/Challenge 2 - T-Shirt store - data classes.kt" afterDir="false" />
+    <list default="true" id="7dde6bd8-ef11-46d4-9a4f-1cbfe107e3d3" name="Changes" comment="Chapter 11 - Classes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +43,7 @@
     "Kotlin.Data_classesKt.executor": "Run",
     "Kotlin.Methods_and_mutabilityKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
@@ -117,9 +104,20 @@
       <option name="presentableId" value="Default" />
       <updated>1712867565502</updated>
     </task>
+    <task id="LOCAL-00001" summary="Chapter 11 - Classes">
+      <option name="closed" value="true" />
+      <created>1713361829343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713361829343</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Chapter 11 - Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 11 - Classes" />
   </component>
 </project>
